@@ -1,2 +1,2 @@
 # html_test_programs
-Folder to hold files to test how HTML works
+Repository to hold my programs testing how the basics of HTML work
